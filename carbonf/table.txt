@@ -1,0 +1,24 @@
+
+++++++++++++     CARBON FOOTPRINT     ++++++++++++
+Brand of Laptop:                           Macbook
+Carbon Emission during manufacturing:    170 kgCO2e
+Total energy consumed by laptop:          16200 Wh
+Total Carbon Footprint:                16370 kgCO2e
+
+
+
+++++++++++++     CARBON FOOTPRINT     ++++++++++++
+Brand of Laptop:                            Lenovo
+Carbon Emission during manufacturing:   250 kgCO2e
+Total energy consumed by laptop:        5256000 Wh
+Total Carbon Footprint:             5256250 kgCO2e
+
+
+
+++++++++++++     CARBON FOOTPRINT     ++++++++++++
+Brand of Laptop:                                HP
+Carbon Emission during manufacturing:    300kgCO2e
+Total energy consumed by laptop:           15360Wh
+Total Carbon Footprint:                15660kgCO2e
+
+
