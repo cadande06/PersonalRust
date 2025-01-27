@@ -30,3 +30,27 @@ Total energy consumed by laptop:           1620 Wh
 Total Carbon Footprint:                1790 kgCO2e
 
 
+
+++++++++++++     CARBON FOOTPRINT     ++++++++++++
+Brand of Laptop:                           Macbook
+Carbon Emission during manufacturing:   170 kgCO2e
+Total energy consumed by laptop:           2025 Wh
+Total Carbon Footprint:                2195 kgCO2e
+
+
+
+++++++++++++     CARBON FOOTPRINT     ++++++++++++
+Brand of device:                           Macbook
+Carbon Emission during manufacturing:   170 kgCO2e
+Total energy consumed by device:          13500 Wh
+Total Carbon Footprint:               13670 kgCO2e
+
+
+
+++++++++++++     CARBON FOOTPRINT     ++++++++++++
+Brand of device:                            iPhone
+Carbon Emission during manufacturing:    50 kgCO2e
+Total energy consumed by device:           5850 Wh
+Total Carbon Footprint:                5900 kgCO2e
+
+
