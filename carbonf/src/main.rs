@@ -21,7 +21,7 @@ fn main() {
     println!("Type:\n M/m for Macbook\n H/h for HP\n A/a for Asus\n D/d for Dell\n L/l for lenovo\n C/c for Acer\n I/i for iPhone\n S/s for Samsung\n I/i for Infinix\n G/g for Google Pixel\n X/x for Xiaomi");
     let mut choice = String::new();
     io::stdin().read_line(&mut choice).expect("FAILED TO READ INPUT");
-    let choice: char = choice.trim().to_uppercase().parse().expect("FAILED TO PARSE INPUT");
+    let choice: char = choice.trim().parse().expect("FAILED TO PARSE INPUT");
 
     // TOTAL EMMISSION
     if choices.contains(&choice) {
